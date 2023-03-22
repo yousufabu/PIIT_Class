@@ -3,7 +3,7 @@ package ConstructorPKG;
 public class Constructor {
 	// global variable
 	int     age   = 20;
-	double height =2;
+	double height =5.7;
 	String race   ="Asian";
 	String first  ="Abu";
 	String last	  ="Yousuf";
